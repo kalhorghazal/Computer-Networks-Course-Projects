@@ -1,3 +1,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/kalhorghazal/FTP-Server
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/kalhorghazal/Ethernet-Switching
