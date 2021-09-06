@@ -4,3 +4,6 @@
 [submodule "CA2"]
 	path = CA2
 	url = https://github.com/kalhorghazal/Ethernet-Switching
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/kalhorghazal/Multicast-Protocol
