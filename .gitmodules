@@ -7,3 +7,6 @@
 [submodule "CA3"]
 	path = CA3
 	url = https://github.com/kalhorghazal/Multicast-Protocol
+[submodule "CA4"]
+	path = CA4
+	url = https://github.com/kalhorghazal/TCP-Simulation
