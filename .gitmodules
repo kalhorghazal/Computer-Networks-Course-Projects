@@ -10,3 +10,7 @@
 [submodule "CA4"]
 	path = CA4
 	url = https://github.com/kalhorghazal/TCP-Simulation
+[submodule "FTP-Server"]
+	path = FTP-Server
+	url = https://github.com/kalhorghazal/FTP-Server
+	branch = master
